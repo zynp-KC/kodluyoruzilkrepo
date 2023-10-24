@@ -1,0 +1,6 @@
+#log
+
+#img
+*.img
+
+password.txt

@@ -1,1 +1,1 @@
-alt bilgii
+alt 
